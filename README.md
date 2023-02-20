@@ -1,4 +1,4 @@
-# fitting of solar flares
+# APPROXIMATION of solar flares
 
 The previously prepared spectra of the considered solar flare were fitted in the 
 XSPEC package with a time resolution of 256 ms and 1024 ms. 
