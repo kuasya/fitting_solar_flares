@@ -25,6 +25,7 @@ The preferred model was selected using the Fisher criterion.
 -	файл со спектром солнечной вспышки;
 -	файл с фоном;
 -	файлы с откликом детектора.
+-	
 ![image](https://user-images.githubusercontent.com/62285192/222533877-567b6300-5b33-400a-8e47-824508f0c7fd.png)
 
 
@@ -39,13 +40,16 @@ The preferred model was selected using the Fisher criterion.
 В случаях со значительным отклонением от модели были исключены плохие каналы.
 По итогу работы для каждого спектра построены графики моделей и по критерию Фишера определена предпочтительная модель.
 
-![image](https://user-images.githubusercontent.com/62285192/222534393-eb21b661-6396-4a52-9be2-1e9255702615.png)
 Одностепенная модель (npow) для седьмого спектра
+![image](https://user-images.githubusercontent.com/62285192/222534393-eb21b661-6396-4a52-9be2-1e9255702615.png)
 
-![image](https://user-images.githubusercontent.com/62285192/222534529-b8389de1-8c5c-40ba-a09d-b8cbcdb2262b.png)
+
 Двухстепенная модель (nbknpow) 
+![image](https://user-images.githubusercontent.com/62285192/222534529-b8389de1-8c5c-40ba-a09d-b8cbcdb2262b.png)
+
 
 Получена временная зависимость для основных параметров излучения вспышки М2 2003-04-26 00:55:01 на временном масштабе 1024 мс
+
 ![image](https://user-images.githubusercontent.com/62285192/222534819-d5c05583-8a78-4c3d-bef4-616996c4f9ec.png)
 
 
