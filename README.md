@@ -32,15 +32,13 @@ The preferred model was selected using the Fisher criterion.
 Выполнена аппроксимация спектров вспышки класса М2.1, произошедшей 26 апреля 2003, 00:55:01 (03301) в программе XSPEC феноменологическими моделями — одностепенной и двустепенной с изломом.
 1.	Одно степенная модель (npow)
 ![image](https://user-images.githubusercontent.com/62285192/222535482-900b6888-8dbc-4002-b550-dd8026c1a884.png)
-Где  ![image](https://user-images.githubusercontent.com/62285192/222535509-766bdf4f-7e03-4d21-8c4f-e90314ee926b.png)
- - показатель степени
+Где  ![image](https://user-images.githubusercontent.com/62285192/222535509-766bdf4f-7e03-4d21-8c4f-e90314ee926b.png) - показатель степени
 2.	Двухстепенная модель с изломом (nbknpow) 
 
 ![image](https://user-images.githubusercontent.com/62285192/222535622-9899b911-6be6-4089-b391-4389f64d505c.png)
-Здесь ![image](https://user-images.githubusercontent.com/62285192/222535536-917fd544-3fcc-4ea2-9529-73787c39162c.png)
-  - значение энергии излома, 
- ![image](https://user-images.githubusercontent.com/62285192/222535571-142acd73-b886-4840-818e-6d17bc03d355.png)
- - показатель степени до излома,  - после излома.
+Здесь ![image](https://user-images.githubusercontent.com/62285192/222535536-917fd544-3fcc-4ea2-9529-73787c39162c.png) - значение энергии излома, 
+ ![image](https://user-images.githubusercontent.com/62285192/222535571-142acd73-b886-4840-818e-6d17bc03d355.png) - показатель степени до излома, ![image](https://user-images.githubusercontent.com/62285192/222535851-a13c124c-e673-4593-a19b-2195054c8ee8.png)
+ - после излома.
 
 
 
@@ -51,12 +49,12 @@ The preferred model was selected using the Fisher criterion.
 В случаях со значительным отклонением от модели были исключены плохие каналы.
 По итогу работы для каждого спектра построены графики моделей и по критерию Фишера определена предпочтительная модель.
 
-Одностепенная модель (npow) для седьмого спектра
+Одностепенная модель (npow) для седьмого спектра:
 
 ![image](https://user-images.githubusercontent.com/62285192/222534393-eb21b661-6396-4a52-9be2-1e9255702615.png)
 
 
-Двухстепенная модель (nbknpow) 
+Двухстепенная модель (nbknpow):
 
 ![image](https://user-images.githubusercontent.com/62285192/222534529-b8389de1-8c5c-40ba-a09d-b8cbcdb2262b.png)
 
