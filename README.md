@@ -23,7 +23,7 @@ The preferred model was selected using the Fisher criterion.
 -	файл со спектром солнечной вспышки;
 -	файл с фоном;
 -	файлы с откликом детектора.
--	
+
 ![image](https://user-images.githubusercontent.com/62285192/222533877-567b6300-5b33-400a-8e47-824508f0c7fd.png)
 
 
